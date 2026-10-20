@@ -3029,7 +3029,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Extract web content and metadata, map site resources and detect page changes; x402 pay-per-call.
 - [2extract](https://mcp.2extract.com/) `https://mcp.2extract.com/mcp`
   [![2extract MCP connector](https://glama.ai/mcp/connectors/com.2extract/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.2extract/mcp)
-  🔓 - Web data access for AI agents: target by city, ZIP or mobile carrier, cap traffic and spend, and report usage.
+  🔑 - Web data access for AI agents: target by city, ZIP or mobile carrier, cap traffic and spend, and report usage.
 - [Agent Company Index](https://agentcompanyindex.com) `https://agentcompanyindex.com/mcp`
   [![Agent Company Index MCP connector](https://glama.ai/mcp/connectors/com.agentcompanyindex/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentcompanyindex/directory)
   🔓 - Sourced B2B provider profiles: who each offering fits, who it doesn't, limits and unknowns, with checked dates.
